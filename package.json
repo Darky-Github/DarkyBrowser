@@ -1,0 +1,17 @@
+{
+  "name": "darkybrowser",
+  "version": "0.0.1",
+  "description": "Private and Secure Browser for you.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-store": "^8.2.0"
+  },
+  "devDependencies": {
+    "electron": "^24.0.0"
+  },
+  "author": "Darky-Github",
+  "license": "MIT"
+}
