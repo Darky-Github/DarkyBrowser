@@ -7,6 +7,10 @@ DarkyBrowser is a simple web browser built with Electron. It features a modern G
 - **Search and URL Bar**: Use the search bar for both searches and direct URLs.
 - **Navigation Buttons**: Navigate back, forward, and refresh pages.
 
+
+## Donate
+- Donate [here](https://darky-github.github.io/Donate-to-me-Webpage/)
+
 ## Installation
 To install and run DarkyBrowser locally, follow these steps:
 
